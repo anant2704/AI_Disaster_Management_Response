@@ -25,3 +25,12 @@ Libraries : Twilio, geopy, scikit_learn, pandas
 
 ## To Try..
 You can access the website on this link : [AI Disaster Management Response](https://anant2704.github.io/AI_Disaster_Management_Response/).
+
+---
+
+
+## Contact
+
+- **Author**: Anant Joshi | Purvesh Bhole | Utkarsha Baraskar . 
+
+---
